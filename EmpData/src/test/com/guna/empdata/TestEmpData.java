@@ -20,4 +20,4 @@ public class TestEmpData {
 		System.out.println(empdata1);
 	}
 
-}
+} 
